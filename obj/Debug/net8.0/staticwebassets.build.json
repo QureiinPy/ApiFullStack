@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6FRKrexseGc+yDWlsn5yFaMkA/qhx7+q9AzNrSzXAbs=",
+  "Source": "TaskApiStack",
+  "BasePath": "_content/TaskApiStack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
